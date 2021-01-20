@@ -8,3 +8,4 @@ This project is made as an assignment for Adana Fullstack Web Development Bootca
 
 A form that collect the input informations and print them inside a collapse card by clicking a button.
 
+[![](https://raw.githubusercontent.com/yagnurl/react-simple-form/main/form-preview.png)](http://https://raw.githubusercontent.com/yagnurl/react-simple-form/main/form-preview.png)
