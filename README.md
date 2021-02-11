@@ -1,6 +1,8 @@
 # React Simple Form
 
-Demo: [https://react-abe11j.stackblitz.io/](https://react-abe11j.stackblitz.io/ "Demo")
+Quick looking to the codes on Sandbox.io : [https://codesandbox.io/s/react-simple-form-l8gh6](https://codesandbox.io/s/react-simple-form-l8gh6 "Code")
+
+Demo: [https://l8gh6.csb.app/](https://l8gh6.csb.app/ "Demo")
 
 This project is made as an assignment for Adana Fullstack Web Development Bootcamp by Kodluyoruz.
 
